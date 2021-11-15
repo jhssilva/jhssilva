@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hugo Silva a Software engineer, that loves to bring real value to the world with the use of technology.
+- 👋 Hi, I’m Hugo Silva a Software engineer, that loves to bring real value to the world.
 - 👀 I’m interested in solving problems and give value with a multi-disciplinary approach. 
 - <3 I love programming, Technology, Psychology, Finance, Self-improvement, Read, Sports, Talk, Share ideas.
 - 🌱 I’m currently learning Swift, finance and accounting.
