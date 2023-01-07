@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on projects that bring value to the world.
 - 📫 How to reach me - https://www.linkedin.com/in/jhssilvaa/
+- 💠 Resume - https://tinyurl.com/2cx5rve8
 
 <!---
 jhssilva/jhssilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
