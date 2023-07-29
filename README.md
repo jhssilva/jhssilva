@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Hugo Silva a Software engineer, that loves to bring real value to the world.
-- 👀 I’m interested in solving problems and give value with a multi-disciplinary approach. 
-- <3 I love programming, Technology, Psychology, Finance, Self-improvement, Read, Sports, Talk, Share ideas.
-- 🌱 I’m currently learning Node.js.
+- 👀 I’m interested in solving problems and giving value with a multi-disciplinary approach. 
+- <3 I love programming, Technology, Psychology, Finance, Self-improvement, reading, Sports, Talk, Share ideas.
+- 🌱 I’m currently learning Nest.js, Next.js.
 - 💞️ I’m looking to collaborate on projects that bring value to the world.
 - 📫 How to reach me - https://www.linkedin.com/in/jhssilvaa/
-- 💠 Resume - https://tinyurl.com/2cx5rve8
 
 <!---
 jhssilva/jhssilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
