@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Hugo Silva a Software engineer, that loves to bring real value to the world.
-- 👀 I’m interested in solving problems and giving value with a multi-disciplinary approach. 
-- <3 I love programming, Technology, Psychology, Finance, Self-improvement, reading, Sports, talking, and sharing ideas.
-- 🌱 I’m currently learning Nest.js, Next.js.
-- 💞️ I’m looking to collaborate on projects that bring value to the world.
+- 👋 Hi, I’m Hugo Silva a Software engineer.
+- 👀 I’m interested in adding value to your projects.
+- 🌱 I’m currently learning Nest.js, Next.js, FastApi.
+- 💞️ I’m looking to collaborate on projects that adds value to the community.
 - 📫 How to reach me - https://www.linkedin.com/in/jhssilvaa/
