@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Hugo Silva a Software engineer.
-- 👀 I’m interested in adding value to your projects.
-- 🌱 I’m currently learning Nest.js, Next.js, FastApi.
-- 💞️ I’m looking to collaborate on projects that adds value to the community.
-- 📫 How to reach me - https://www.linkedin.com/in/jhssilvaa/
+Hi there 👋
+
+I’m Hugo Silva, a passionate Software Engineer dedicated to adding value to your projects.
+- 👀 Interests: I’m always looking for opportunities to contribute and make a positive impact.
+- 🌱 Currently Learning: Nest.js, Next.js, and FastAPI.
+- 💞️ Collaboration: Eager to collaborate on projects that benefit the community.
+- 📫 Reach Out: [LinkedIn Profile](https://www.linkedin.com/in/jhssilvaa/)
