@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Hugo Silva 👋</h1>
   <p>
-    <strong>Full-stack Software Engineer | Investor | Tech Enthusiast</strong>
+    <strong>Software Engineer | Investor | Tech Enthusiast</strong>
   </p>
   
   <a href="https://www.linkedin.com/in/jhssilvaa/">
@@ -19,11 +19,9 @@
 
 ### 👨‍💻 About Me
 
-I’m a passionate **Software Engineer** focused on building reliable, scalable, and impactful solutions. With over 6 years of experience, I specialize in distributed systems, backend APIs, and improving developer productivity.
+I’m a passionate **Software Engineer** focused on building reliable, scalable, and impactful solutions. With over 7 years of experience, I specialize in distributed systems, backend APIs, and improving developer productivity.
 
 - 🔭 **I’m currently working on** internal tools and observability at Datadog.
-- 🌱 **I’m currently learning** Next.js, FastAPI, and advanced system design.
-- 👯 **I’m looking to collaborate on** open-source projects and developer tools.
 - ⚡ **Fun fact**: I won the "Top Dog Award" at Datadog and the "Altice Labs Award" for Best Master's Student!
 
 ---
